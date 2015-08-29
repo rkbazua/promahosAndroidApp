@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="host">localhost</string>
+    <string name="port">85</string>
+    <string name="authService">auth</string>
+</resources>
